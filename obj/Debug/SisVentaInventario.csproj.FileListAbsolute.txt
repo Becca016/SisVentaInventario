@@ -1,0 +1,10 @@
+C:\SisVentaInventario\SisVentaInventario\SisVentaInventario\obj\Debug\SisVentaInventario.csproj.AssemblyReference.cache
+C:\SisVentaInventario\SisVentaInventario\SisVentaInventario\obj\Debug\SisVentaInventario.Properties.Resources.resources
+C:\SisVentaInventario\SisVentaInventario\SisVentaInventario\obj\Debug\SisVentaInventario.csproj.GenerateResource.cache
+C:\SisVentaInventario\SisVentaInventario\SisVentaInventario\obj\Debug\SisVentaInventario.csproj.CoreCompileInputs.cache
+C:\SisVentaInventario\SisVentaInventario\SisVentaInventario\bin\Debug\SisVentaInventario.exe.config
+C:\SisVentaInventario\SisVentaInventario\SisVentaInventario\bin\Debug\SisVentaInventario.exe
+C:\SisVentaInventario\SisVentaInventario\SisVentaInventario\bin\Debug\SisVentaInventario.pdb
+C:\SisVentaInventario\SisVentaInventario\SisVentaInventario\obj\Debug\SisVentaInventario.PRESENTACION.frmTiposEmpresas.resources
+C:\SisVentaInventario\SisVentaInventario\SisVentaInventario\obj\Debug\SisVentaInventario.exe
+C:\SisVentaInventario\SisVentaInventario\SisVentaInventario\obj\Debug\SisVentaInventario.pdb
