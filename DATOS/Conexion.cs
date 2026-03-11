@@ -12,7 +12,7 @@ namespace SisVentaInventario.DATOS
         private static Conexion Con = null;
         
         
-        //Constructor
+        //Constructor para la conexión
         private Conexion()
         {
             this.Basededatos = "BD_VENTASINVENTARIO";
